@@ -1,76 +1,132 @@
 <div align="center">
 
-# 👋 Hi, I'm Kunal Kundaliya
+# Hi 👋, I'm Kunal Kundaliya
 
-**Software Developer · DSA & Competitive Programming · Backend Enthusiast**
+### Backend Developer • Competitive Programmer • Computer Science Student
 
-> *"Consistency, discipline, and problem-solving are the keys to becoming a great engineer."*
+Building scalable applications, solving algorithmic problems, and continuously improving my software engineering skills.
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Kunal022-del&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 </div>
 
 ---
 
-## 🧠 About me
+# 🚀 About Me
 
-Passionate and growth-driven developer focused on **Data Structures & Algorithms**, competitive programming, and building efficient real-world solutions. I enjoy understanding how systems work behind the scenes — and turning that curiosity into clean, maintainable code.
+I'm a Computer Science student passionate about building efficient software and solving challenging algorithmic problems.
 
-- 💡 Critical thinking & systematic problem decomposition
-- 🔁 Consistent, intentional learning every day
-- ⚡ Writing clean, optimized, maintainable code
-- 🔍 Always curious about how things work at a systems level
+I enjoy designing backend systems, optimizing code, learning new technologies, and understanding how software works behind the scenes.
 
----
+### Currently focusing on
 
-## 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-kundaliya-1921b9333/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kunal022-del)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kunalwave_spx/)
+- 🌱 Backend Development
+- 🧠 Data Structures & Algorithms
+- ⚡ Competitive Programming
+- 🗄️ Database Design
+- 🏗️ System Design
+- 📚 Computer Science Fundamentals
 
 ---
 
-## 🏆 Competitive programming
+# 🛠 Tech Stack
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Kunal_K008/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/kunal008)
-[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nepalkunal16)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nepalkunal16)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/husk_shop_31)
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,python" />
+</p>
+
+### Web & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,mysql,mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,docker" />
+</p>
+
+
+---
+
+# 🏆 Competitive Programming
+
+<p>
+
+<a href="https://leetcode.com/u/Kunal_K008/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://codeforces.com/profile/nepalkunal16">
+<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/kunal008">
+<img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+<a href="https://www.codechef.com/users/husk_shop_31">
+<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/nepalkunal16">
+<img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+</p>
 
 ---
 
-## ⚡ Currently strengthening
+# 🎯 Current Goals
 
-| Area | What I'm working on |
-|------|---------------------|
-| 🌲 Advanced DSA | Trees, graphs, DP, segment trees, competitive problem-solving |
-| 🖥️ Backend & Databases | System design, MySQL, MongoDB, scalable architecture |
-| 🛠️ Software Engineering | Clean code, design patterns, version control workflows |
-| 📊 Data & Analytics | NumPy, Pandas — data pipelines and exploratory analysis |
-| 🏅 Competitive Programming | Regular contests on LeetCode, GFG, Codeforces, CodeChef |
-| 💻 CS Fundamentals | OS, DBMS, computer networks, OOP, low-level concepts |
+- 🚀 Master Backend Development
+- 🌲 Solve 1000+ DSA Problems
+- 🏗️ Build Production-Level Projects
+- 🤝 Contribute to Open Source
+- ☁️ Learn Docker & Cloud Technologies
+- 📚 Improve System Design Skills
 
----
+# 📫 Connect With Me
 
-## 💻 Tech stack
+<p>
 
-**Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<a href="https://www.linkedin.com/in/kunal-kundaliya-1921b9333/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-**Web & Databases**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<a href="https://github.com/Kunal022-del">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
 
-**Libraries & Tools**
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<a href="mailto:nepalkunal16@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.instagram.com/kunalwave_spx/">
+<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
+</a>
+
+</p>
 
 ---
+
+<div align="center">
+
+### 💡 "Learning deeply. Building thoughtfully. Improving continuously."
+
+⭐ Thanks for visiting my profile!
+
+Feel free to connect, collaborate, or explore my repositories.
+
+</div>
